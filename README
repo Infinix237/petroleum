@@ -1,0 +1,20 @@
+# PETROLEUM BLESSING
+
+## API ROUTES
+
+### USERS
+
+```
+add user : GET http://localhost:3000/api/v1/utilisateurs
+
+create user : POST http://localhost:3000/api/v1/utilisateurs
+
+update user : PUT http://localhost:3000/api/v1/utilisateurs
+
+delete user : DELETE http://localhost:3000/api/v1/utilisateurs
+
+get all users : GET http://localhost:3000/api/v1/utilisateurs
+
+get id user : GET http://localhost:3000/api/v1/utilisateurs
+
+```
